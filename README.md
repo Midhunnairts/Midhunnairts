@@ -2,7 +2,7 @@
 - 👀 I’m interested in Angular development and python
 - 🌱 I’m currently learning working with Melento India Pvt Ltd
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me midhunnair102@gmail.com
+- 📫 How to reach me midhunnair217@gmail.com
 
 <!---
 Midhunnairts/Midhunnairts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
