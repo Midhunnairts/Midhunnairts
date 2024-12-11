@@ -38,6 +38,7 @@ I’m a passionate front-end developer with over two years of experience special
 
 - **Beam Builder:** A visualization tool for civil engineers, built with Angular, to display shear force and bending moment diagrams in beams.
 - **IoT-based Food Distribution System:** A real-time monitoring system using Flask and IoT sensors to track food quality across locations.
+- **Angular Alerts Package:** Customizable alert package for Angular, inspired by Sweet Alert, featuring modal dialogs and dynamic content.
 
 ---
 
